@@ -1,10 +1,11 @@
+
 # Steam Headless (Arch Linux)
 # (WIP) An Arch variant of the steam-headless image
 # It is curerently my intent to switch to arch as the main 
 #   image base once SteamOS 3 is released (pending review)
 #
 FROM archlinux:latest
-LABEL maintainer="Josh.5 <jsunnex@gmail.com>"
+LABEL maintainer="FuyukiSnowNo <snowfrombelow@proton.me>"
 
 # Update package repos
 RUN \
