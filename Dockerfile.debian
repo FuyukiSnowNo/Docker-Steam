@@ -1,6 +1,6 @@
 
 FROM debian:trixie-slim
-LABEL maintainer="Josh.5 <jsunnex@gmail.com>"
+LABEL maintainer="FuyukiSnowNo <snowfrombelow@proton.me>"
 
 # Update package repos
 ARG DEBIAN_FRONTEND=noninteractive
